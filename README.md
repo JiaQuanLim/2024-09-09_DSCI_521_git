@@ -1,3 +1,3 @@
 # Lecture 3 activity
 
-Testing out git diff --staged
+Testing out git diff --staged BEFORE COMMITING
